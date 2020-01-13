@@ -56,7 +56,7 @@ export default {
   font-size: 1rem;
   font-weight: 500;
   --opacity: 40%;
-  z-index: 900;
+  z-index: 600;
   margin-left: 80.5%;
   opacity: 80%;
   --overflow-y: scroll;
