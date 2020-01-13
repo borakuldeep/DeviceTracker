@@ -93,7 +93,7 @@ export default {
 
 @keyframes pop {
   from {
-    transform: scale(-1, -2);
+    transform: scale(0, 0);
   }
   to {
     transform: scale(1, 1);
