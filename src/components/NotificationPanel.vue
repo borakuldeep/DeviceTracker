@@ -49,8 +49,6 @@ export default {
   position: absolute;
   width: 380px;
   height: 100vh;
-  background: white;
-  --color: white;
   border: 1px solid black;
   border-radius: 10px;
   font-size: 1rem;
