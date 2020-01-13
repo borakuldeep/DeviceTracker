@@ -1,4 +1,4 @@
-# vue-tracker
+# TRG-tracker
 
 ## Project setup
 ```
