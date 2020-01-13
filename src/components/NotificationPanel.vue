@@ -68,7 +68,7 @@ export default {
   margin: 10px;
   height: 50px;
   --font-weight: bold;
-  background: white;
+  --background: white;
   margin: 3px;
   font-size: 1.1rem;
   margin-top: 10px;
