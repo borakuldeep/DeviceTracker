@@ -56,7 +56,7 @@ export default {
   --opacity: 40%;
   z-index: 1000;
   margin-left: 80.5%;
-  opacity: 80%;
+  --opacity: 80%;
   --overflow-y: scroll;
   box-sizing: border-box;
 }
