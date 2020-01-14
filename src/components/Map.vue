@@ -424,7 +424,7 @@ export default {
   width: 200px;
   height: 60px;
   background-color: #4d79ff;
-  opacity: 90%;
+  --opacity: 90%;
   color: white;
 }
 .device1 {
